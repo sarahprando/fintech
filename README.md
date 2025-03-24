@@ -8,7 +8,7 @@
 </div> 
 
 ## 🔗 Live Demo  
-<p align="center"><a href="https://sarahprando.github.io/fintech/src/"><img alt="Forest Page" src="./public/fintech-preview.png"></a></p>  
+<p align="center"><a href="https://fintech-umber-ten.vercel.app/"><img alt="Forest Page" src="./public/fintech-preview.png"></a></p>  
 
 ## ✨ Features  
 ✔️ Sales overview with detailed insights  
